@@ -1,1 +1,1 @@
-# Pauljohn-Maddala-JavaScript-10
+# paruchuriBhanuChandraSekharGuptha-JavaScript-10
